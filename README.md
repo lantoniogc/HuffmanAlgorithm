@@ -1,5 +1,7 @@
 # Huffman Algorithm
 
+![alt tag](https://i.imgur.com/bWdAgbu.png)
+
 A C implementation of the Huffman Algorithm. [More info](https://www.codesdope.com/course/algorithms-huffman-codes/)
 
 ## Getting Started
